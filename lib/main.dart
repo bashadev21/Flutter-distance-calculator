@@ -1,4 +1,3 @@
-import 'package:distancecalcy/user_input.dart';
 import 'package:distancecalcy/vehicle_selection.dart';
 import 'package:flutter/material.dart';
 
